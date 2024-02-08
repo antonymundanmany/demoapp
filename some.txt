@@ -1,4 +1,4 @@
 a=34
-b=4
+b=del
 c=a+b
 print(c)
