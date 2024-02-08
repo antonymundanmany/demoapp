@@ -1,4 +1,0 @@
-a=34
-b=del
-c=a+b
-print(c)
